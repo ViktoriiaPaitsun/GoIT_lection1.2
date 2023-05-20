@@ -4,3 +4,5 @@ git add filename.txt - додавання файлу в stagging area
 git add . - додає всі файли в stagging area
 git commit -m "коментар"- закомітити зміни в репозиторфї
 git log - показує історію комітів
+git checkout <hash> - перейти на певний коміт 
+git diff <hash1> <hash2> filename.txt - переглянути зміни між версіями
