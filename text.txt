@@ -1,4 +1,6 @@
 git init - створення ініціалізація нового репозиторію
 git status - перевірка змін у репозиторфї
 git add filename.txt - додавання файлу в stagging area
+git add . - додає всі файли в stagging area
 git commit -m "коментар"- закомітити зміни в репозиторфї
+git log - показує історію комітів
